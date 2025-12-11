@@ -5,7 +5,7 @@ export const portfolioProjects = [
     description:
       "A warm, inviting one-page website with menu, hours, and a gallery.",
     image: "☕",
-    liveUrl: "#portfolio",
+    liveUrl: "https://freelance-studio-bkea.vercel.app/",
     tags: ["One-page", "Menu", "Gallery"],
   },
   {
@@ -14,7 +14,7 @@ export const portfolioProjects = [
     description:
       "Earthy, minimalist design with service descriptions and booking section.",
     image: "🌱",
-    liveUrl: "#portfolio",
+    liveUrl: "https://freelance-studio-l4xn.vercel.app/",
     tags: ["Wellness", "Booking", "Services"],
   },
   {
@@ -23,7 +23,7 @@ export const portfolioProjects = [
     description:
       "Modern, clean gallery layout with lightbox and client testimonials.",
     image: "📸",
-    liveUrl: "#portfolio",
+    liveUrl: "https://freelance-studio-vpqw.vercel.app/",
     tags: ["Portfolio", "Gallery", "Testimonials"],
   },
 ];
